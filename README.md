@@ -1,1 +1,1 @@
-# Projects-with-C
+# Projects in C
